@@ -1,0 +1,17 @@
+.box {
+  border: 1px solid #dfdfdf;
+  background-color: #fff;
+}
+
+.g-btn {
+  width: auto !important;
+  height: auto !important;
+  line-height: auto !important;
+  font-size: 15px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+  width: auto !important;
+  height: auto !important;
+}
+
